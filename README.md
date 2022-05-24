@@ -2,9 +2,10 @@
 
 
 # **who are we;**
-
+<!--
 > ### *English*
 
+-->
 
 **hello;** is a software lab - and a voluntary project - created by Otávio and Ingrid, both undergraduate students at University of Brasília.
 
