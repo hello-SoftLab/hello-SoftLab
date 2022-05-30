@@ -7,7 +7,7 @@
 
 -->
 
-**hello;** is a software lab - and a voluntary project - created by Otávio and Ingrid, both undergraduate students at University of Brasília.
+**hello;** is a software lab - and a voluntary project - created by [Otávio](https://github.com/knz13) and [Ingrid](https://github.com/ingavell), both undergraduate students at University of Brasília.
 
 
 this idea came to our minds after Otávio, software enginnering undergraduate, got extremely unhappy in his major due its lack of real projects which would shape engineers ready to innovate and create a better future. None of the faculties really taught how to code different - or improve - softwares.
