@@ -17,7 +17,7 @@ as for Ingrid, organizational communications undergraduate, although she cannot 
 
 ### 👾 why we're here:
 
-+ our **main objective** is to *help software engineering undergraduates think out of the box and understand that software can be applied anywhere for an infinity of purposes*. no, we're not talking all about web here.
++ our **main objective** is to *help software engineering undergraduates think outside of the box and understand that software can be applied anywhere for an infinity of purposes*. no, we're not talking all about web here.
 
 
 + our voluntary and social values come right after our main objective,
