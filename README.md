@@ -21,7 +21,7 @@ as for Ingrid, organizational communications undergraduate, although she cannot 
 
 
 + our voluntary and social values come right after our main objective,
-*we do believe we can offer our knowledge to create simple, but very efficient, softwares to small businesses, non-profit organizations and etc.* **in order to solve their problems** (such as accounting, managing, monitoring, modeling...) **in a creative way.**
+*we do believe we can offer our knowledge to create simple, but very efficient, softwares to small businesses, non-profit organizations etc.* **in order to solve their problems** (such as accounting, managing, monitoring, modeling...) **in a creative way.**
 
 
 <!--
