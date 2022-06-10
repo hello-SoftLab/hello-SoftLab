@@ -48,7 +48,7 @@ já Ingrid, estudante de graduação de comunicação organizacional, por mais q
 
 ## ✉️ want to contact us? send us a message!
 + e-mail: hello.softwarelab@gmail.com
-+ instagram: soon!
++ instagram: @hello.softwarelab
 
 ***
 
