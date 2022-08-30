@@ -2,7 +2,26 @@
 ![hello;wallapper](https://user-images.githubusercontent.com/105679100/187541958-1bf9b89b-e1c2-4607-af0d-c9cc3c23b9cd.svg)
 
 
-helping software engineering undergraduates think outside of the box and understand that software can be applied anywhere for an infinity of purposes
+
+![adfsn](https://user-images.githubusercontent.com/105679100/187547930-a4ed3c2f-66c5-4428-a0a3-f40fee73309c.svg)
+
+<br />
+<br />
+
+<p align="center">
+helping software engineering undergraduates think outside of the box
+</p>
+
+<p align="center">
+applying it for an infinity of purposes
+</p>
+
+
+<br />
+<br />
+
+![adfsn](https://user-images.githubusercontent.com/105679100/187547930-a4ed3c2f-66c5-4428-a0a3-f40fee73309c.svg)
+
 
 
 
@@ -11,14 +30,30 @@ helping software engineering undergraduates think outside of the box and underst
 
 -->
 
+
+
 **hello;** is an innovative software lab created by [Otávio](https://github.com/knz13) and [Ingrid](https://github.com/ingavell), both undergraduate students at University of Brasília.
 
+<br />
+<br />
 
+<p align="justify">
 Otávio, software enginnering undergraduate, got extremely unhappy in his major due its lack of real projects which would shape engineers ready to innovate and create a better future.
+</p>
 
+<br />
+
+<p align="justify">
 None of the faculties really taught how to code different - or improve - softwares.
+</p>
 
-Ingrid, organizational communications undergraduate, although she cannot code ~~yet~~, she is responsible for contacting clients, manage projects and manage comms. (hello you!).
+<br />
+
+
+<p align="justify">
+Ingrid, organizational communications undergraduate, although she cannot code (yet), she is responsible for contacting clients, manage projects and manage comms. (hello you!)
+</p>
+
 
 
 
@@ -42,25 +77,24 @@ já Ingrid, estudante de graduação de comunicação organizacional, por mais q
 [![name](link to image on GH)](link to your URL)
 -->
 
-***
-
-## ✉️ want to contact us? send us a message!
-+ e-mail: hello.softwarelab@gmail.com
-
-[![instagram](https://user-images.githubusercontent.com/105679100/187542139-54452938-a50d-4aca-895a-cca8b6841fd3.svg)](https://www.instagram.com/hello.softwarelab/)
 
 
 
 
-+ instagram: [@hello.softwarelab](https://www.instagram.com/hello.softwarelab)
-
-***
-
-we hope we can make dozens of great projects and share with all of you here on github!
-
-*Otávio and Ingrid on behalf of*
-**🟠 hello;**
 
 
-# */
+![adfsn](https://user-images.githubusercontent.com/105679100/187547930-a4ed3c2f-66c5-4428-a0a3-f40fee73309c.svg)
+
+
+
+<a href="https://www.instagram.com/hello.softwarelab/"> 
+  <p align="center">
+    <img alt="hello; instagram" width="40px" src="https://user-images.githubusercontent.com/105679100/187542139-54452938-a50d-4aca-895a-cca8b6841fd3.svg" />  
+  </p>
+</a>
+
+<p align="center">
+the team on behalf of <br />
+  hello;
+</p>
 
