@@ -1,16 +1,11 @@
-![hello;](https://user-images.githubusercontent.com/105679100/187518673-f392170c-30d2-4804-bc21-f4e953594198.png)
+
+![hello;wallapper](https://user-images.githubusercontent.com/105679100/187541958-1bf9b89b-e1c2-4607-af0d-c9cc3c23b9cd.svg)
+
+
+helping software engineering undergraduates think outside of the box and understand that software can be applied anywhere for an infinity of purposes
 
 
 
-# /* innovative software lab;
-
-
-## why we're here:
-
-+ our **main objective** is to *help software engineering undergraduates think outside of the box and understand that software can be applied anywhere for an infinity of purposes*. no, we're not talking all about web here.
-
-
-## **who are we;**
 <!--
 > ### *English*
 
@@ -43,12 +38,20 @@ já Ingrid, estudante de graduação de comunicação organizacional, por mais q
 
 + nosso **objetivo principal** é *ajudar estudantes de graduação de engenharia de software saírem de sua zona de conforto e entenderem que software pode ser aplicado em qualquer lugar de forma quase infinita*. Não, nós não estamos falando só de web aqui.
 
+
+[![name](link to image on GH)](link to your URL)
 -->
 
 ***
 
 ## ✉️ want to contact us? send us a message!
 + e-mail: hello.softwarelab@gmail.com
+
+[![instagram](https://user-images.githubusercontent.com/105679100/187542139-54452938-a50d-4aca-895a-cca8b6841fd3.svg)](https://www.instagram.com/hello.softwarelab/)
+
+
+
+
 + instagram: [@hello.softwarelab](https://www.instagram.com/hello.softwarelab)
 
 ***
