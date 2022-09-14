@@ -44,7 +44,7 @@ our main objective is to help and promote undergraduates think outside of the bo
 <br />
 
 <p align="justify">
-through labs, group classes, events, hackathons and creating innovative softwares, we believe we can create a more creative generation of pragrammers.
+through labs, group classes, events, hackathons and creating innovative softwares, we believe we can create a more creative generation of programmers.
 </p>
 
 <br />
