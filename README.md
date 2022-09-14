@@ -32,28 +32,23 @@ applying it for an infinity of purposes
 
 
 
-**hello;** is an innovative software lab created by [Otávio](https://github.com/knz13) and [Ingrid](https://github.com/ingavell), both undergraduate students at University of Brasília.
+**hello;** is an innovative software lab founded by [Otávio](https://github.com/knz13) and [Ingrid](https://github.com/ingavell) and co-founded by [Lucas](https://github.com/Lucas-AV) and [Dani](https://github.com/DanielleRodriguesilv), all undergraduate students at University of Brasília.
 
 <br />
 <br />
 
 <p align="justify">
-Otávio, software enginnering undergraduate, got extremely unhappy in his major due its lack of real projects which would shape engineers ready to innovate and create a better future.
+our main objective is to help and promote undergraduates think outside of the box and understand that software can be applied anywhere for an infinity of purposes; along with a wide knowledge diversity - entrepreneurship, comms. etc.
 </p>
 
 <br />
 
 <p align="justify">
-None of the faculties really taught how to code different - or improve - softwares.
+through labs, group classes, events, hackathons and creating innovative softwares, we believe we can create a more creative generation of pragrammers.
 </p>
 
 <br />
-
-
-<p align="justify">
-Ingrid, organizational communications undergraduate, although she cannot code (yet), she is responsible for contacting clients, manage projects and manage comms. (hello you!)
-</p>
-
+if you want to participate in our journey, send us a message!
 
 
 
