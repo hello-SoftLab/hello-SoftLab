@@ -22,7 +22,7 @@ applying it for an infinity of purposes
 
 ![adfsn](https://user-images.githubusercontent.com/105679100/187547930-a4ed3c2f-66c5-4428-a0a3-f40fee73309c.svg)
 
-
+<br />
 
 
 <!--
@@ -48,9 +48,10 @@ through labs, group classes, events, hackathons and creating innovative software
 </p>
 
 <br />
+<br />
 if you want to participate in our journey, send us a message!
 
-
+<br />
 
 
 <!--
