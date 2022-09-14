@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-helping software engineering undergraduates think outside of the box
+helping software-loving undergraduates think outside of the box
 </p>
 
 <p align="center">
